@@ -1,0 +1,12 @@
+
+Here's the optimized version of the text in English, highlighting Swar's contributions:
+
+Swar is a key member of the GDT ASP Product Team, serving as the primary architect and software developer with a strong skillset in Python, GCP, Shell, and Golang.
+
+Rapid Learning and Integration: Swar quickly learns and integrates into the team. Within the first month of joining GDT, he made significant contributions to the India DSW deployment of the India R-CUBE project.
+Key Contributor: Swar is the key contributor to the GCP DSW (PST) project, responsible for the architecture and development of all Python backend services. He also participated in the deployment of India DSW, IMO PST, and ASP PST, covering four markets: Taiwan, Hong Kong, Sri Lanka, and the Philippines.
+Data Migration Expert: In the IMO Zonal Separation project, Swar managed the data migration of PST market data, bucket objects, BigQuery data, filestore, and PVC disk objects.
+Standardization and Investment Reduction: Swar played a crucial role in the CGKE to HGKE migration, making services more standardized and significantly reducing BAU investment.
+Database Migration: Swar was the key contributor to the PST evergreen project, overseeing the data migration from MySQL to PostgreSQL.
+DevOps Automation: Swar contributed extensively to DevOps automation. His deployment and release pipeline supports the release of multiple environments simultaneously (up to 14, including 1 DEV, 7 UAT, and 6 PROD). This capability allows for one-click releases of all environments, greatly reducing BAU investment.
+Swar's expertise and seamless integration have been vital to the team's success and the smooth execution of projects.
